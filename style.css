@@ -1,0 +1,15 @@
+.color {
+    color: orange;
+
+}
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.link button {
+    color: rgb(186, 50, 12);
+    border-radius: 5px;
+}
